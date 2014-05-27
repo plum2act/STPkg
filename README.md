@@ -11,3 +11,4 @@ Installed packages:
 * LESS
 * MarkdownEditing
 * Theme - Soda
+* SyncedSideBar
